@@ -159,8 +159,8 @@ A lightweight database implementation built from scratch.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naman-c25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naman-c25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="68%" src="./metrics.svg" alt="GitHub Metrics" />
+  <img width="30%" src="./metrics-languages.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
