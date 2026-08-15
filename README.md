@@ -16,8 +16,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently building **[Naulej](https://github.com/naman-c25/Naulej)** — a job platform with AI-powered ATS resume scoring
-- 🌱 Currently working at **Sirhaana**, sharpening my skills in **full-stack development and applied AI**
 - 💼 All of my projects live at **[@naman-c25](https://github.com/naman-c25?tab=repositories)**
 - 🖥️ Check out my portfolio → **[naman.dev](https://portfolio-three-eosin-54.vercel.app/)**
 - 💬 Ask me about **React, Node.js, MongoDB, TypeScript, and AI integrations**
