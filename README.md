@@ -159,12 +159,7 @@ A lightweight database implementation built from scratch.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="68%" src="./metrics.svg" alt="GitHub Metrics" />
-  <img width="30%" src="./metrics-languages.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=naman-c25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
