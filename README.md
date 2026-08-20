@@ -16,9 +16,10 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 All of my projects live at **[@naman-c25](https://github.com/naman-c25?tab=repositories)**
-- 🖥️ Check out my portfolio → **[naman.dev](https://portfolio-three-eosin-54.vercel.app/)**
-- 💬 Ask me about **React, Node.js, MongoDB, TypeScript, and AI integrations**
+- 🎓 **B.Tech in Computer Science** at Ajay Kumar Garg Engineering College, Ghaziabad (2023 – 2027)
+- 💻 Full-stack developer working across **React, Next.js, Node.js, and MongoDB**
+- 🧠 Interested in **caching, real-time systems, and applied AI**
+- 🖥️ Portfolio → **[naman-c25](https://portfolio-three-eosin-54.vercel.app/)**
 - 📫 Reach me at **namanchaudhary251020@gmail.com**
 - 📍 Based in **New Delhi, India**
 - ⚡ Fun fact: I debug better at 2 AM than at 2 PM
@@ -36,10 +37,21 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-> [!IMPORTANT]
-> These are the technologies and tools I actively build with.
+**Technical Intern** · Sirhaana &nbsp;·&nbsp; *Mar 2026 – Present*
+
+- Permission-based access control across 76+ API endpoints and 8 user roles
+- Redis cache-aside layer for AI prompt lookups, warmed on boot and re-synced on every write
+
+**Web Developer Intern** · The Spiritual Company &nbsp;·&nbsp; *Jan 2026 – Mar 2026*
+
+- CI/CD pipelines for 3 microservices, plus Redis caching and database query tuning
+- Domain-grounded chat assistant with multi-turn context and a rate-limited paid endpoint
+
+---
+
+## 🛠️ Tech Stack
 
 <details open>
 <summary><b>💻 Languages</b></summary>
@@ -47,7 +59,6 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -59,10 +70,10 @@
 <br>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 </details>
 
@@ -72,8 +83,10 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 </details>
 
@@ -82,8 +95,9 @@
 <br>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 </details>
 
@@ -91,12 +105,12 @@
 <summary><b>☁️ Cloud & Tools</b></summary>
 <br>
 <p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 </details>
 
@@ -108,43 +122,55 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [Naulej](https://github.com/naman-c25/Naulej)
-Full-stack job platform connecting students with recruiters, featuring **AI-powered ATS resume scoring**.
+### 🎯 [Naulej](https://github.com/naman-c25/Naulej) · [Live](https://naulej.com/)
 
-`React 19` `Express 5` `MongoDB` `OpenAI` `AWS S3`
+MERN job platform with separate student and recruiter roles, plus AI-powered ATS resume scoring.
 
-- JWT + Google OAuth with role-based access
-- Single-call `gpt-4o-mini` resume analysis
-- S3 presigned URLs + Razorpay HMAC verification
+`React 19` `Express 5` `MongoDB` `OpenAI` `AWS`
+
+- 22 REST endpoints, deployed on AWS EC2
+- Resumes scored against a job description with GPT-4o-mini in a single cached call
+- S3 presigned URLs and HMAC-verified Razorpay payments
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 [Finance Advisor & Expense Tracker](https://github.com/naman-c25/Finance-Advisor-and-Expense-Tracker)
-A personal finance **PWA** for tracking expenses, setting savings goals, and getting AI-powered advice.
+### 🤝 [CareerSphere](https://github.com/naman-c25/CareerSphere)
 
-`React 19` `TypeScript` `Vite` `MUI` `Firebase`
+LinkedIn-style professional networking platform with feeds, connections, and PDF resume export.
 
-- Google Gemini for financial insights
-- Multi-currency support (INR/USD/EUR/GBP)
+`Next.js` `Express` `MongoDB` `Redux Toolkit`
+
+- 20 REST endpoints over five Mongoose models
+- Feed state managed through three Redux reducers
+- Server-side resume generation with PDFKit
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [SmartDiagnosis](https://github.com/naman-c25/SmartDiagnosis)
-Generates diagnoses from precise symptoms using AI.
+### 🎥 [MeetHub](https://github.com/naman-c25/MeetHub)
 
-`JavaScript` `AI`
+Video conferencing app on native WebRTC, with no SDK and no media server.
+
+`React` `WebRTC` `Socket.io` `Express`
+
+- Full-mesh P2P so media flows directly between peers
+- Socket.io relays only the offer/answer/ICE handshake
+- Screen sharing with camera fallback and timestamped chat
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [FlashDB](https://github.com/naman-c25/FlashDB)
-A lightweight database implementation built from scratch.
+### 💰 [Finance Advisor](https://github.com/naman-c25/Finance-Advisor-and-Expense-Tracker)
 
-`Java`
+Personal finance PWA for tracking expenses, setting savings goals, and getting AI-powered advice.
+
+`React 19` `TypeScript` `Vite` `Firebase`
+
+- Google Gemini for financial insights
+- Multi-currency support (INR/USD/EUR/GBP)
 
 </td>
 </tr>
@@ -156,11 +182,16 @@ A lightweight database implementation built from scratch.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img src="./streak.svg" alt="GitHub Streak" />
-</p>
+- Peak **LeetCode** contest rating of **1510**, and a **2-star CodeChef** rating
+- Solved **400+ DSA problems** across LeetCode, GeeksforGeeks, and CodeChef
+- **Finalist** among 50 teams at the **Rumik × AWS Hackathon**
+- Competed in the **TenzorX National AI Hackathon 2026**, hosted by Poonawalla Fincorp
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naman-c25&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
