@@ -122,15 +122,15 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 [Naulej](https://github.com/naman-c25/Naulej) · [Live](https://naulej.com/)
+### 🔐 [FaceSync](https://github.com/naman-c25/FaceSync) · [Live](https://facesync-production.up.railway.app/)
 
-MERN job platform with separate student and recruiter roles, plus AI-powered ATS resume scoring.
+Face-recognition payment terminal doing 1:N identification, refusing near-ties rather than charging the wrong person.
 
-`React 19` `Express 5` `MongoDB` `OpenAI` `AWS`
+`React` `Express` `FastAPI` `ONNX Runtime` `MongoDB`
 
-- 22 REST endpoints, deployed on AWS EC2
-- Resumes scored against a job description with GPT-4o-mini in a single cached call
-- S3 presigned URLs and HMAC-verified Razorpay payments
+- Four pretrained models (SCRFD, ArcFace, MediaPipe, MiniFASNet) on one shared ONNX Runtime for detection, liveness, and anti-spoofing
+- Blocks 4/4 photo and screen attacks on a labelled benchmark
+- AES-256-GCM encrypted face templates, scrypt-hashed PINs, 385 tests across Python and Node
 
 </td>
 <td width="50%" valign="top">
@@ -148,7 +148,7 @@ LinkedIn-style professional networking platform with feeds, connections, and PDF
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" colspan="2">
 
 ### 🎥 [MeetHub](https://github.com/naman-c25/MeetHub)
 
@@ -159,18 +159,6 @@ Video conferencing app on native WebRTC, with no SDK and no media server.
 - Full-mesh P2P so media flows directly between peers
 - Socket.io relays only the offer/answer/ICE handshake
 - Screen sharing with camera fallback and timestamped chat
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 [Finance Advisor](https://github.com/naman-c25/Finance-Advisor-and-Expense-Tracker)
-
-Personal finance PWA for tracking expenses, setting savings goals, and getting AI-powered advice.
-
-`React 19` `TypeScript` `Vite` `Firebase`
-
-- Google Gemini for financial insights
-- Multi-currency support (INR/USD/EUR/GBP)
 
 </td>
 </tr>
