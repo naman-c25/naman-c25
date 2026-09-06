@@ -148,7 +148,7 @@ LinkedIn-style professional networking platform with feeds, connections, and PDF
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
 ### 🎥 [MeetHub](https://github.com/naman-c25/MeetHub)
 
@@ -159,6 +159,19 @@ Video conferencing app on native WebRTC, with no SDK and no media server.
 - Full-mesh P2P so media flows directly between peers
 - Socket.io relays only the offer/answer/ICE handshake
 - Screen sharing with camera fallback and timestamped chat
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 [VentureStay](https://github.com/naman-c25/VentureStay)
+
+Full-stack Airbnb-style house rental listing platform with server-rendered views.
+
+`Express` `EJS` `MongoDB` `Cloudinary`
+
+- Passport.js local auth with session persistence via connect-mongo
+- Joi schema validation across all listing and review routes
+- Cloudinary + Multer image uploads with owner-based authorization
 
 </td>
 </tr>
